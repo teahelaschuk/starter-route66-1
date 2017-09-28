@@ -21,11 +21,11 @@ Release Date: 9/28/2017
 Release Date: 9/28/2017
 
 ## New Components
- - controllers/Able.php: added a regular controller
+ - controllers/Able.php: added a regular controller.
 
 
 ## Updated Components
- - config.php: changed target link for Alpha
+ - config.php: changed target link for Alpha.
 
 
 ## *Version 1.0.2*

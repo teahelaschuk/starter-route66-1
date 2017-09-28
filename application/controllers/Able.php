@@ -11,6 +11,7 @@ class Able extends Application
 
 	/**
 	 * Alpha - regular controller
+         * issue #2
 	 */
 	public function index() {
             $this->show(1);
