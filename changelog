@@ -30,13 +30,14 @@ Release Date: 9/28/2017
 
 ## *Version 1.0.2*
 
-Release Date
+Release Date: 9/29/2017
 
 ## New Components
-
+ - controllers/delta/Force.php: added a controller in a subfolder
 
 
 ## Updated Components
+ - config.php: added target link for Delta
 
 
 
