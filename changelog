@@ -94,3 +94,14 @@ Release Date: 9/30/2017
 ## Updated Components
  - config.php: added target link for Foxtrot (NM)
  - routes.php: added route from Foxtrot to Tango (NM)
+
+## *Version 1.0.8*
+
+Release Date: 9/30/2017
+
+## New Components
+ - controllers/India.php: added service controller and copied the puppy image (NM)
+ - data/puppy.jpg: added the folder data and a jpg image puppy (NM)
+
+## Updated Components
+ - config.php: added target link for india (NM)
