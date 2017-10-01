@@ -73,4 +73,13 @@ Release Date: 9/30/2017
 ## Updated Components
  - config.php: added target link for Charlie, Echo, Hotel, and Kilo (F)
  - routes.php: added routing rule for Hotel and Kilo (F)
- 
+
+ ## *Version 1.0.6*
+
+ Release Date: 9/30/2017
+
+ ## New Components
+  - controllers/bravo/welcome.php: added service controller (NM)
+
+ ## Updated Components
+  - config.php: added target link for Bravo (NM)
