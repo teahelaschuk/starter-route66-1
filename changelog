@@ -67,8 +67,8 @@ Release Date: 9/29/2017
 Release Date: 9/30/2017
 
 ## New Components
- - Charlie.php
- - Must.php
+ - Charlie.php (F)
+ - Must.php (F)
 
 ## Updated Components
  - config.php: added target link for Charlie, Echo, Hotel, and Kilo (F)
