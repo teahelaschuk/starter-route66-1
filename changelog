@@ -74,12 +74,23 @@ Release Date: 9/30/2017
  - config.php: added target link for Charlie, Echo, Hotel, and Kilo (F)
  - routes.php: added routing rule for Hotel and Kilo (F)
 
- ## *Version 1.0.6*
+## *Version 1.0.6*
 
- Release Date: 9/30/2017
+Release Date: 9/30/2017
 
- ## New Components
-  - controllers/bravo/welcome.php: added service controller (NM)
+## New Components
+ - controllers/bravo/welcome.php: added service controller (NM)
 
- ## Updated Components
-  - config.php: added target link for Bravo (NM)
+## Updated Components
+ - config.php: added target link for Bravo (NM)
+
+## *Version 1.0.7*
+
+Release Date: 9/30/2017
+
+## New Components
+ - controllers/tango.php: added service controller (NM)
+
+## Updated Components
+ - config.php: added target link for Foxtrot (NM)
+ - routes.php: added route from Foxtrot to Tango (NM)

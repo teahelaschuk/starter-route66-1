@@ -53,6 +53,7 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 $route['i/.*'] = 'golf';
+$route['foxtrot'] = 'tango';
 $route['show/(:any)'] = 'welcome/show/$1';
 $route['bananas/rule'] = function($fruit='',$verb='') {
     if (strpos($this->uri->segment(1), 'banana') !== false) {
